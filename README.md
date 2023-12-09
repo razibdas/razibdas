@@ -1,6 +1,6 @@
 
-### Hi there 👋
-<img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
+### <h1 align="center">I'am Razib Das</h1>
+<img align="center" width="900" src="https://raw.githubusercontent.com/razibdas/razibdas/main/cover.jpg"/>
 
 
 **razibdas/razibdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
