@@ -25,7 +25,7 @@
 # Technology I that know :
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,mongodb,firebase,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,mongodb,firebase,vercel,tailwindcss" />
   </a>
 </p>
 
