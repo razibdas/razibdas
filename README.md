@@ -18,6 +18,10 @@
 <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=razibdas&show_icons=true&locale=en&layout=compact" alt="razibdas" />
 </p>
 
+# Connect With Me
+<a href="https://web.facebook.com/razib.kumar.336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/razib.kumar.336/" height="30" width="40" /></a>
+
+
 # Technology I that know :
 <p align="">
   <a href="https://skillicons.dev">
